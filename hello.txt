@@ -22,3 +22,6 @@ Hello world! vim
 Hastings 第二次进行编辑的对应进行添加的内g
 Hastings 第三次进行编辑的对应进行添加的内容情况 master tests
 当前进行的修改是在hot-fix 上面进行的一个修改操作
+
+
+也是可以在这里执行线上的修改的操作的本质上是这样的处理的;
