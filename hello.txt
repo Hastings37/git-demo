@@ -1,3 +1,6 @@
 Hello World! 
 现在我正在学习CS61B的内容 
 这个是关于git 的重新学习操作~~~；
+
+
+git push 的再一次尝试
